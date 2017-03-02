@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gutierrez A2</string>
+    <string name="textView">This is Assignment 2</string>
+    <string name="radioButton">yes</string>
+    <string name="radioButton2">no</string>
+    <string name="checkBox">Are you sure?</string>
+    <string name="textView2">Is the cat cute?</string>
+    <string name="radioButton4">yes</string>
+    <string name="radioButton3">no</string>
+</resources>
